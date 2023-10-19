@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamza Aman</h1>
+<h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate Software Automation Test Engineer</h3>
 
 - 🔭 I’m currently working on [Employee Management Suite](https://github.com/hamxaatgithub/PLPS-Suite-Automation)
